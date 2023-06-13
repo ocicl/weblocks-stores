@@ -1,0 +1,10 @@
+* weblocks-stores
+
+Different stores for weblocks
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/weblocks-framework/weblocks-stores.git   |
+| commit  | 4231ae1  |
+| systems | weblocks-stores |
+|---------+-------------------------------------------|
+
